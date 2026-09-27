@@ -4,7 +4,7 @@ A Reproducible Discrete-Event Simulation and Data Analysis Case Study Using Jaam
 
 ## Authors
 
-**Salih TEZ** — @salih-tez  
-**Mert DEMİR** — 
+**Salih TEZ** — @salihtez  
+**Mert DEMİR** — @Sape3x
 
 Both authors contributed equally to the development of this project.
